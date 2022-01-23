@@ -1,4 +1,4 @@
 # TecBlogResponsivo
 
 
-Site simples responsivo com efeite de tema
+Site responsivo simples com efeite de tema
